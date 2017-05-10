@@ -14,5 +14,6 @@ This repository contains the code and lab report for the final project.  The lab
 6. Flash output_files/Final_Project.sof to the DE2-115.  When finished, use Eclipse to run the software portion.  
 7. Attach a VGA display, USB keyboard, Audio In (blue 3.5mm jack), and Audio Out (green 3.5mm jack)  
 
-# Copying
-All provided code is free to download and run, but copying portions or the entirety of code to use in other projects is forbidden without the permission of both Mark Kubiak and James Ickes.
+# Copying and Credit
+All provided code is free to download and run, but copying portions or the entirety of code to use in other projects is forbidden without the permission of both Mark Kubiak and James Ickes.  
+Some small portions of code were extracted from previous labs or provided by the instructors of the course.  audio_interface.vhd was used to interact with the Wolfson WM8731 Audio chip; this code was created by past ECE385 student Koushik Roy and provided by the instructors of the course.  Portions of the code relating to communication between the Cypress EZ-OTG (CY7C67200) chip and a USB keyboard were partially provided by the instructors of the course for completion in Lab 8.
